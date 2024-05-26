@@ -1,0 +1,16 @@
+header{
+    background-color: cadetblue;
+}
+
+.titulo{
+    text-align: center;
+}
+
+.principal{
+    background-color: cadetblue;
+}
+
+.produto{
+    background-color: white;
+    width: 400px;
+}
